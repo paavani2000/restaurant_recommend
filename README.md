@@ -1,7 +1,9 @@
 Decentralized Restaurant Recommendation System
+
 A machine learning-powered and blockchain-integrated restaurant recommendation platform that ensures transparency, personalization, and trust in user reviews and suggestions.
 
 Overview
+
 This system combines **ML-based recommendations** with **blockchain-backed incentive mechanisms**. It analyzes user preferences, review sentiments, and historical behavior to suggest personalized restaurants, while using smart contracts to reward users with loyalty points for contributing honest reviews.
 
 - ✅ **Personalized Recommendations**: Cosine similarity and matrix factorization for tailored suggestions  
