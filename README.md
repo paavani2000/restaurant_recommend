@@ -1,17 +1,6 @@
 # 🍽️ Decentralized Restaurant Recommendation System
 
-A cross-platform restaurant recommendation system that combines machine learning, sentiment analysis, and blockchain to provide personalized dining suggestions based on user history and Yelp data. Smart contracts ensure transparency and reward users for authentic reviews.
-
-
-## 📌 Overview
-
-DineSure integrates multiple components into a unified platform:
-
-- 🔗 **[Web Interface](./WebApp)**: A lightweight Flask API backend with ML and sentiment logic  
-- 📱 **[Blockchain Layer](./SmartContracts)**: Ethereum smart contracts for review incentives  
-- 🧠 **[Data Engine](./BigDataPipeline)**: Processes and analyzes large-scale Yelp and user-generated data
-
-The system tailors recommendations to user behavior while ensuring data integrity and fair rewards through blockchain.
+A cross-platform restaurant recommendation system that combines machine learning, sentiment analysis, and blockchain to provide personalized dining suggestions based on user history and Yelp data. Smart contracts ensure transparency and reward users for authentic reviews. The system tailors recommendations to user behavior while ensuring data integrity and fair rewards through blockchain.
 
 
 ## 🚀 Core Features
